@@ -1,28 +1,11 @@
 #summary One-sentence summary of this page.
 
 = Introduction =
+* A list
+  * Of bulleted items
+    # This is a numbered sublist
+    # Which is done by indenting further
+  * And back to the main bulleted list
 
 
 = Details =
-*Список анимаций
-# Движение овечки
-## влево
-## вправо
-3. вверх
-4. вниз
-2. Радость при касании звёздочки
-3. Остановка в тупике
-4. Поворот на стрелке
-5. Пересечение финальной линии
-6. Появление на уровне
-7. Прыжок(умирание)
-1. влево
-2. вправо
-3. вверх
-4. вниз
-8. Овечка спит
-9. Движение облачка
-10. Установка стрелочки
-11. Таймер при установке стрелк
-
-

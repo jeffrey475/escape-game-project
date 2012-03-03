@@ -1,4 +1,4 @@
-# *Score system description*
+*Score system description*
 
 = *Описание* =
 

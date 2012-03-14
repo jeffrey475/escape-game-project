@@ -1,0 +1,12 @@
+Используем только freeware.
+
+= Цифры =
+
+Референс шрифта:
+ # http://www.urbanfonts.com/fonts/Bradybunch.htm
+
+= Название игры, название меню, надписи на больших кнопках =
+
+Референс шрифта:
+ # http://www.dafont.com/porkys.font
+ # http://www.urbanfonts.com/fonts/Casual.htm
